@@ -1,0 +1,8 @@
+C:\Users\Павел\Desktop\StreamProfiling\StreamProfiling\obj\Debug\StreamProfiling.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\StreamProfiling\StreamProfiling\obj\Debug\StreamProfiling.csproj.SuggestedBindingRedirects.cache
+C:\Users\Павел\Desktop\StreamProfiling\StreamProfiling\obj\Debug\StreamProfiling.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\StreamProfiling\StreamProfiling\bin\Debug\StreamProfiling.exe.config
+C:\Users\Павел\Desktop\StreamProfiling\StreamProfiling\bin\Debug\StreamProfiling.exe
+C:\Users\Павел\Desktop\StreamProfiling\StreamProfiling\bin\Debug\StreamProfiling.pdb
+C:\Users\Павел\Desktop\StreamProfiling\StreamProfiling\obj\Debug\StreamProfiling.exe
+C:\Users\Павел\Desktop\StreamProfiling\StreamProfiling\obj\Debug\StreamProfiling.pdb
